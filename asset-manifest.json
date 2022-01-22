@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nuzzlocke-overlay/static/css/main.89b56289.css",
+    "main.css": "/nuzzlocke-overlay/static/css/main.53505fcb.css",
     "main.js": "/nuzzlocke-overlay/static/js/main.499641d2.js",
     "static/js/787.495ee0ef.chunk.js": "/nuzzlocke-overlay/static/js/787.495ee0ef.chunk.js",
     "index.html": "/nuzzlocke-overlay/index.html",
-    "main.89b56289.css.map": "/nuzzlocke-overlay/static/css/main.89b56289.css.map",
+    "main.53505fcb.css.map": "/nuzzlocke-overlay/static/css/main.53505fcb.css.map",
     "main.499641d2.js.map": "/nuzzlocke-overlay/static/js/main.499641d2.js.map",
     "787.495ee0ef.chunk.js.map": "/nuzzlocke-overlay/static/js/787.495ee0ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89b56289.css",
+    "static/css/main.53505fcb.css",
     "static/js/main.499641d2.js"
   ]
 }
