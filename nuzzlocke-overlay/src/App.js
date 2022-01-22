@@ -1,5 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import { ThemeProvider } from 'emotion-theming'
+import theme from '@rebass/preset'
+
+export default props =>
+  <ThemeProvider theme={theme}>
+    {props.children}
+  </ThemeProvider>
 
 function App() {
   return (
