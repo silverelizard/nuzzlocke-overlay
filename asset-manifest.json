@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nuzzlocke-overlay/static/css/main.073c9b0a.css",
+    "main.js": "/nuzzlocke-overlay/static/js/main.32e2ddfd.js",
+    "static/js/787.495ee0ef.chunk.js": "/nuzzlocke-overlay/static/js/787.495ee0ef.chunk.js",
+    "static/media/logo.svg": "/nuzzlocke-overlay/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nuzzlocke-overlay/index.html",
+    "main.073c9b0a.css.map": "/nuzzlocke-overlay/static/css/main.073c9b0a.css.map",
+    "main.32e2ddfd.js.map": "/nuzzlocke-overlay/static/js/main.32e2ddfd.js.map",
+    "787.495ee0ef.chunk.js.map": "/nuzzlocke-overlay/static/js/787.495ee0ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.32e2ddfd.js"
+  ]
+}
