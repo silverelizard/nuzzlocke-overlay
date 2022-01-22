@@ -1,28 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
-import { ThemeProvider } from 'emotion-theming'
-import theme from '@rebass/preset'
+import { Flex, Box } from 'reflexbox'
 
 function App() {
   return (
-    <ThemeProvider theme={theme}>
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
-    </ThemeProvider>
+    <Flex p={2} align='center'>
+      <Box px={2} w={1/2}>Box A</Box>
+      <Box px={2} w={1/2}>Box B</Box>
+    </Flex>
   );
 }
 
